@@ -2,7 +2,9 @@
 
 🎓 Estudante de Ciência da Computação  
 💻 Técnico em Desenvolvimento de Sistemas  
-🚀 Buscando minha primeira oportunidade como desenvolvedor
+🚀 Em busca da minha primeira oportunidade como desenvolvedor  
+
+Sou apaixonado por tecnologia e desenvolvimento web. Durante o curso técnico, desenvolvi projetos práticos que me deram uma boa base em lógica de programação, desenvolvimento front-end, banco de dados e aplicações completas. Estou sempre aprendendo e buscando evoluir, seja com cursos online, seja com projetos próprios.
 
 ---
 
@@ -11,6 +13,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -18,39 +22,42 @@
 
 ---
 
-## 📁 Organização dos meus projetos
+## 📁 Meus Projetos
 
-### 📌 Projetos Acadêmicos
-- 🎓 **[TCC - Sistema de Gestão Escolar](link)**  
-  Projeto desenvolvido como Trabalho de Conclusão de Curso no Técnico em Desenvolvimento de Sistemas.
+### 🚀 Principais Projetos
+- ✂️ **[Sistema de Agendamento para Barbearia](https://github.com/juliocsantos2504/barbearia-agendamento)**  
+  Projeto completo feito como TCC, com back-end e front-end integrados. Sistema de agendamento local para barbearias.
 
-### 🎯 Front-end
-- 💡 **[Landing Page de Curso](link)**  
-  Projeto desenvolvido como parte de um curso online, focando em HTML, CSS e JavaScript.
-- 💡 **[Portfólio Pessoal](link)**  
-  Site estático feito para treinar responsividade e design.
+- 🍟 **[Clone do App do McDonald's - Mobile](https://github.com/juliocsantos2504/clone-mcdonalds-mobile)**  
+  Projeto de mobile inspirado no aplicativo oficial, com foco em interface e navegação mobile.
 
-### 🐍 Python
-- 📘 **[Exercícios de lógica](link)**  
-  Exercícios simples para fixar estruturas básicas da linguagem.
-- 🤖 **[Script automatizador](link)**  
-  Projeto com automação de tarefas usando bibliotecas Python.
+- 🌐 **[Mini Projetos Web - HTML/CSS/JS](https://github.com/juliocsantos2504/projetos-html-css-js)**  
+  Coleção de projetos front-end: calculadora, jogo da velha, relógio digital, clone do Tinder, entre outros.
 
-### ☕ Java
-- 📗 **[Mini Sistema Bancário](link)**  
-  Projeto com orientação a objetos feito para praticar estruturas e classes em Java.
+---
 
-### ⚙️ JavaScript
-- 📙 **[To-do List](link)**  
-  Aplicação simples de lista de tarefas com interatividade em JS puro.
-- 📙 **[Calculadora Web](link)**  
-  Projeto básico de interface com funcionalidades de calculadora.
+### 🎓 Projetos Acadêmicos e de Curso
 
-### 🗃️ Banco de Dados / MySQL
-- 📊 **[Modelo de Banco Relacional](link)**  
-  Exemplo de modelagem de banco e queries SQL.
+- 📘 **[Programação Web - 1º Trimestre](https://github.com/juliocsantos2504/programacao-web-1trimestre)**  
+  Exercícios e páginas desenvolvidas durante as aulas de front-end do curso técnico.
 
-> ⚠️ *Mais projetos serão adicionados em breve conforme avanço nos estudos e cursos!*
+- 🧠 **[Exercícios de Lógica](https://github.com/juliocsantos2504/exercicios-logica)**  
+  Problemas resolvidos em PHP, Java e JavaScript para praticar lógica de programação.
+
+- 🧪 **[Curso Magic Front](https://github.com/juliocsantos2504/curso-magic-front)**  
+  Projetos realizados em curso online com foco em HTML, CSS, JS e React.
+
+- 💾 **[Exercícios de Banco de Dados](https://github.com/juliocsantos2504/exercicios-banco-de-dados)**  
+  Modelagem de dados, consultas SQL e exercícios com MySQL.
+
+---
+
+### 📂 Outros Projetos
+- 📄 **[Currículo em HTML](https://github.com/juliocsantos2504/curriculo-html)**  
+  Um currículo responsivo desenvolvido com HTML e CSS.
+
+- 🏀 **[Página sobre o NBB](https://github.com/juliocsantos2504/pagina-nbb)**  
+  Projeto de site estático com informações sobre o Novo Basquete Brasil.
 
 ---
 
@@ -61,10 +68,11 @@
 
 ---
 
-## 📫 Contato
+## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-c%C3%A9sar-santos-pereira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juliocsantos2504@gmail.com)
 
-<!-- Atualize os links reais acima com seu LinkedIn e email -->
+---
 
+> ✨ Obrigado por visitar meu perfil! Fique à vontade para explorar os projetos e me chamar para conversar.
